@@ -1,0 +1,6 @@
+{
+  "name": "Jogo dos Registros - EF04CO02",
+  "description": "Jogo educativo interativo para trabalhar a habilidade EF04CO02 da BNCC de Pensamento Computacional: reconhecer e manipular objetos através de registros organizados por campos nomeados e valores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
